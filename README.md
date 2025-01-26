@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=JusticeGod773&color=020617)
+![Profile Views](https://komarev.com/ghpvc/?username=JusticeGod773s&color=020617)
 ![github](https://github-readme-stats.vercel.app/api?username=JusticeGod773&theme=vue-dark&show_icons=true)
