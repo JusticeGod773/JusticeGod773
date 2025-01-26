@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JusticeGod773" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGEsteves&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 ![github](https://github-readme-stats.vercel.app/api?username=JusticeGod773&theme=vue-dark&show_icons=true)
+
+<a href="https://github.com/JusticeGod773" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeGod773&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
